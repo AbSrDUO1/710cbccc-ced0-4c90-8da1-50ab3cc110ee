@@ -6,6 +6,7 @@ import SocialsAbout from '@/components/sections/layouts/about/SocialsAbout';
 import HowToBuy3D from '@/components/sections/layouts/howtobuy/3DHTB';
 import PatternTokenomics from '@/components/sections/layouts/tokenomics/PatternTokenomics';
 import FooterLogo from '@/components/footer/FooterLogo';
+import { DollarSign, Percent } from 'lucide-react';
 
 export default function Home() {
   return (
@@ -51,8 +52,8 @@ export default function Home() {
           title="Tokenomics"
           description="Check out our detailed tokenomics data below."
           kpiItems={[
-            { value: "100M", description: "Total Supply", icon: "DollarSign" },
-            { value: "60M", description: "Circulating Supply", icon: "Percent" },
+            { value: "100M", description: "Total Supply", icon: DollarSign },
+            { value: "60M", description: "Circulating Supply", icon: Percent },
           ]}
         />
       </div>
