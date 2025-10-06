@@ -13,7 +13,6 @@ export default function Home() {
       <div id="nav" data-section="nav">
         <NavbarStyleMinimal
           logoSrc="/images/logo.svg"
-          logoAlt="Mvpblocks Logo"
           logoWidth={100}
           logoHeight={40}
           buttonText="Get Started"
