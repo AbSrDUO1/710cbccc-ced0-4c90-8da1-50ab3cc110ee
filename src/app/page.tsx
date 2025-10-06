@@ -16,15 +16,15 @@ export default function Home() {
           logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32Sjpo9ZLWlVS5JxRw9EagJf0Fo/logo-for-mvp-1759678266924-8fa8a341.jpg"
           logoWidth={100}
           logoHeight={40}
-          buttonText="Get Started"
+          buttonText="Get Startedwefewgewg"
         />
       </div>
       <div id="hero" data-section="hero" className="scroll-mt-24">
         <SplitHero
           title="Welcome to Mvpblocks"
-          subtitle="Unleash your MVP potential with us!"
+          subtitle="weifbehfbqe"
           primaryButtonText="Get Started"
-          secondaryButtonText="Learn More"
+          secondaryButtonText="egewrgsrgdh"
         />
       </div>
       <div id="about" data-section="about" className="scroll-mt-24">
@@ -59,7 +59,7 @@ export default function Home() {
       </div>
       <div id="footer" data-section="footer" className="scroll-mt-24">
         <FooterLogo
-          logoSrc="/images/logo.svg"
+          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32Sjpo9ZLWlVS5JxRw9EagJf0Fo/tmp/cute-girl-1759678026849-dd68b81d.jpg"
           logoAlt="Mvpblocks Logo"
           logoText="Mvpblocks"
           className="bg-white py-4"
