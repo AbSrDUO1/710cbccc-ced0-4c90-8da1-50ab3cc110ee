@@ -13,7 +13,7 @@ export default function Home() {
     <SiteThemeProvider theme={{ styleVariant: "funAndTrendy", colorTemplate: 1, textAnimation: "slide" }}>
       <div id="nav" data-section="nav">
         <NavbarStyleMinimal
-          logoSrc="/images/logo.svg"
+          logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32Sjpo9ZLWlVS5JxRw9EagJf0Fo/logo-for-mvp-1759678266924-8fa8a341.jpg"
           logoWidth={100}
           logoHeight={40}
           buttonText="Get Started"
